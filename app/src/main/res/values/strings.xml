@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MySpace</string>
+    <string name="WelcomeScreenTitle">Welcome to MySpace</string>
+    <string name="Disclaimer">Tap Agree and Continue to accpet the Terms and Conditions and Privacy Policy</string>
+    <string name="AgreeButton">Agree and Continue</string>
+    <string name="PhoneScreenTitle">Verify your phone number</string>
+    <string name="VerifyPhoneText"><b>MySpace</b> will send an SMS to verify your phone number. Enter your phone number below.</string>
+    <string name="tab_text_1">Contact</string>
+    <string name="tab_text_2">Calendar</string>
+    <string name="tab_text_3">Notes</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tab_text_4">Calc</string>
+</resources>
